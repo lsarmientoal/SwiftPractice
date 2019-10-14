@@ -1,0 +1,69 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - IQKeyboardManagerSwift (6.5.1)
+  - Moya (14.0.0-beta.4):
+    - Moya/Core (= 14.0.0-beta.4)
+  - Moya/Core (14.0.0-beta.4):
+    - Alamofire (= 5.0.0-rc.2)
+  - Moya/RxSwift (14.0.0-beta.4):
+    - Moya/Core
+    - RxSwift (~> 5.0)
+  - Nimble (8.0.4)
+  - Quick (2.2.0)
+  - R.swift (5.0.3):
+    - R.swift.Library (~> 5.0.0)
+  - R.swift.Library (5.0.1)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - RxTest (5.0.0):
+    - RxSwift (~> 5)
+  - Then (2.6.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Moya
+  - Moya/RxSwift (~> 14.0.0-alpha)
+  - Nimble
+  - Quick
+  - R.swift
+  - RxCocoa
+  - RxSwift
+  - RxTest
+  - Then
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Moya
+    - Nimble
+    - Quick
+    - R.swift
+    - R.swift.Library
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxTest
+    - Then
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  IQKeyboardManagerSwift: 9ac7524fad9f9fe9a3b98c927e7772471ca546d2
+  Moya: 53fa45a72929809e0b8bba44a0a53d8d0827bcfe
+  Nimble: 18d5360282923225d62b09d781f63abc1a0111fc
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+  R.swift: f5a87643b91ea569d23d6afb3eee9c743edde239
+  R.swift.Library: cfe85d569d9bae6cb262922db130e7c3a7a5fad1
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  RxTest: 4349afe98f564e0a9bc19063368904622d17d49a
+  Then: 90cd104fd951cec1980a03f57704ad8f784d4d79
+
+PODFILE CHECKSUM: 4d1f20e0250a7998801444cc6604590a469b336a
+
+COCOAPODS: 1.8.3
